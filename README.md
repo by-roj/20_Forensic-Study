@@ -12,9 +12,9 @@
 
 ***1과목 컴퓨터 구조와 디지털 저장매체***
 
-[컴퓨터 구조](https://github.com/by-roj/Forensic-Study/blob/master/SUB1_1.md)
+[컴퓨터 구조](https://github.com/by-roj/20_Forensic-Study/blob/master/SUB1_1.md)
 
-[디지털 저장매체](https://github.com/by-roj/Forensic-Study/blob/master/SUB1_2.md)
+[디지털 저장매체](https://github.com/by-roj/20_Forensic-Study/blob/master/SUB1_2.md)
 
 
 
