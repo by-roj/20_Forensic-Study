@@ -1,20 +1,20 @@
-# Forensic-Study
+# Forensics-Study
 
-디지털 포렌식 전문가 자격증 취득을 위한 스터디입니다
+Record of the preparation process for acquiring a digital forensics expert certificate
 
-교재 : 2019 디지털포렌식 전문가 2급 (국가공인) 기출문제
-
-<br>
-
-### [제2장] 디지털포렌식 전문가 2급 연습문제
+Textbook : 2019 Digital Forensics Expert Level 2 (National Accreditation) Previous Questions
 
 <br>
 
-***1과목 컴퓨터 구조와 디지털 저장매체***
+### [Chapter 2] Digital Forensics Expert Level 2 Practice Questions
 
-[컴퓨터 구조](https://github.com/by-roj/20_Forensic-Study/blob/master/SUB1_1.md)
+<br>
 
-[디지털 저장매체](https://github.com/by-roj/20_Forensic-Study/blob/master/SUB1_2.md)
+***1st Course: Computer Structure and Digital Storage Media***
+
+[Computer Structure](https://github.com/by-roj/20_Forensic-Study/blob/master/SUB1_1.md)
+
+[Digital Storage Media](https://github.com/by-roj/20_Forensic-Study/blob/master/SUB1_2.md)
 
 
 
