@@ -1,4 +1,4 @@
-# Forensics-Study
+# Forensics Study
 
 Record of the preparation process for acquiring a digital forensics expert certificate
 
